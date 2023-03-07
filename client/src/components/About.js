@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import patilpic from "../images/Jellyfish.jpg";
+import patilpic from "../images/nature.jpg";
 import aboutpic from "../images/aboutpic.png";
 import { useHistory } from 'react-router-use-history';
 
