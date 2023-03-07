@@ -1,0 +1,134 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Project Css */
+
+.mongodb {
+  color: green;
+}
+.expressjs {
+  color: rgb(253, 253, 0);
+}
+.reactjs {
+  color: rgb(9, 179, 241);
+}
+.nodejs {
+  color: rgb(68, 147, 68);
+}
+
+
+.welcome {
+  text-align: center;
+  margin: 30px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.signup {
+  text-align: center;
+  color: black;
+  margin: 20px;
+}
+
+body {
+  background: linear-gradient(to right, #c1c6cd, #ede7e0);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.form {
+  background-color: white;
+  border-radius: 10px;
+  width: 500px;
+  margin: 25px auto;
+  padding: 20px;
+  border:1px solid #dedede;
+  box-shadow: rgba(0,0,0,0.24 ) 0px 3px 8px;
+  /* height: 600px; */
+}
+
+.form-body {
+  text-align: left;
+  padding: 20px 10px;
+  
+}
+
+.form-body>* {
+  padding: 5px;
+}
+
+.form__label {
+  width: 40%;
+}
+
+.form_input {
+  width: 60%;
+}
+
+.footer {
+  text-align: center;
+}
+
+.signup-image{
+  text-align: center;
+  position: relative;
+} 
+
+.contact_form_title{
+  text-align: center;
+  color: black;
+  margin: 20px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.contact-box{
+  background-color: white;
+  border-radius: 10px;
+  width: 30%;
+  border:1px solid #dedede;
+  box-shadow: rgba(0,0,0,0.24 ) 0px 3px 8px;
+}
+
+.box{
+  background-color: white;
+  border-radius: 10px;
+  border:1px solid #dedede;
+  box-shadow: rgba(0,0,0,0.24 ) 0px 3px 8px;
+}
