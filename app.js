@@ -52,13 +52,13 @@ const PORT = process.env.PORT || 5000;
 //     res.send(`hello about from the server`);
 // });
 
-app.get('/signin', (req, res) => {
-    res.send(`signin page`);
-});
+//app.get('/signin', (req, res) => {
+  //  res.send(`signin page`);
+//});
 
-app.get('/signup', (req, res) => {
-    res.send(`signup page`);
-});
+//app.get('/signup', (req, res) => {
+  //  res.send(`signup page`);
+//});
 
 
 
