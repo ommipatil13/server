@@ -79,7 +79,7 @@ const About = () => {
               <div className='col-md-4'>
                 <div className='profile-work'>
                   <p>Work Link</p>
-                  <a href="https://drive.google.com/file/d/1XyOjvANfcwFJ32L9tW-Yilv6Rx5IZlLj/view?usp=share_link" target="_patil" className='nav-link'>Resume</a>
+                  
                   <a href="https://github.com/ommipatil13" target="_patil" className="nav-link" >GitHub</a>
                   <a href="https://www.linkedin.com/in/omkar-patil-738092203/" target="_patil" className="nav-link" >LinkedIn</a>
                   <a href="https://www.hackerrank.com/ommipatil13?hr_r=1" target="_patil" className="nav-link">HackerRank</a>
